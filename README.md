@@ -10,6 +10,7 @@ Change the location of the refrence image folder and execute the script. It use 
 and if you have NVIDIA Graphics card, install CUDA for faster results and accuracy
 
 Your refrence image folder should have the images of users face (one image from one person) where it's file name should be the name of the person.
+
 -> The refrence image folder will be named as "img".
 
 -> Enter the names of the members in the file: "class.txt"
